@@ -8,7 +8,7 @@
 
 <div align="center">
   
-### Common Questions?
+### Common Questions
 
 English: Is this right?<br>
 Spanish: Es este correcto?
